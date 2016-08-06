@@ -1,0 +1,16 @@
+[
+{
+  "modid": "crank",
+  "name": "Crank!",
+  "description": "Crank it up!.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jared"],
+  "credits": "Me for making the mod idea. Me for making the texture. Me for making the model. Me for coding the mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

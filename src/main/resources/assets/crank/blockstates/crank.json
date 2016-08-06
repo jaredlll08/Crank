@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "stage=0": {
+      "model": "crank:crank_one"
+    },
+    "stage=1": {
+      "model": "crank:crank_two"
+    },
+    "stage=2": {
+      "model": "crank:crank_three"
+    },
+    "stage=3": {
+      "model": "crank:crank_four"
+    }
+  }
+}
