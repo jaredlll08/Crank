@@ -1,5 +1,5 @@
 {
-  "parent": "crank:block/iron/crank_one",
+  "parent": "crank:block/stone/crank_one",
   "display": {
     "thirdperson": {
       "rotation": [

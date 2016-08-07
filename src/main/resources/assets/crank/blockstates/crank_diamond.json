@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "normal": {
+      "model": "crank:diamond/crank_one"
+    },
+    "stage=0": {
+      "model": "crank:diamond/crank_one"
+    },
+    "stage=1": {
+      "model": "crank:diamond/crank_two"
+    },
+    "stage=2": {
+      "model": "crank:diamond/crank_three"
+    },
+    "stage=3": {
+      "model": "crank:diamond/crank_four"
+    }
+  }
+}
+

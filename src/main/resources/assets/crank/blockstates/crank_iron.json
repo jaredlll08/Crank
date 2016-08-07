@@ -1,5 +1,8 @@
 {
   "variants": {
+    "normal": {
+      "model": "crank:iron/crank_one"
+    },
     "stage=0": {
       "model": "crank:iron/crank_one"
     },
@@ -14,3 +17,4 @@
     }
   }
 }
+

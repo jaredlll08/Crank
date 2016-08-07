@@ -1,7 +1,7 @@
 {
   "__comment": "Designed by Jaredlll08 with BDcraft Cubik PRO 0.95 Beta - http://bdcraft.net",
   "textures": {
-    "texture": "blocks/iron_block"
+    "texture": "blocks/gold_block"
   },
   "elements": [
     {
