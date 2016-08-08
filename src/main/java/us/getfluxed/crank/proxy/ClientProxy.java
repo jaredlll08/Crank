@@ -1,5 +1,7 @@
 package us.getfluxed.crank.proxy;
 
+import us.getfluxed.crank.blocks.CBlocks;
+
 /**
  * Created by Jared on 8/6/2016.
  */
