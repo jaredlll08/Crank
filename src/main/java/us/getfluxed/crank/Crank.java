@@ -30,7 +30,7 @@ public class Crank {
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent e) {
-        CBlocks.init();
+       
     }
 
     @Mod.EventHandler
